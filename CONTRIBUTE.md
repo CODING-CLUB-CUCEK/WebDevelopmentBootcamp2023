@@ -22,7 +22,7 @@ Thank you for your interest in contributing to the WebDevelopmentBootcamp2023 re
 
 1. Inside your semester folder, create a new folder with your name.
 2. Navigate to the folder you just created.
-3. Create your personal portfolio website using the knowledge you have gained so far in the bootcamp.
+3. Create your personal portfolio website using the knowledge you have gained so far in the boot camp.
 
 ## Stage Your Changes
 
