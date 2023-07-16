@@ -1,7 +1,7 @@
 # Web Development Bootcamp 
 
 Welcome to the Web Development Bootcamp! This readme provides essential links and resources to help you start with HTML, CSS, JavaScript, Git, and GitHub. It also includes information on conventional commits, GitLens, and commonly used Git commands.
-For contributing guidelines checkout [Contribution guidelines](https://github.com/CODING-CLUB-CUCEK/WebDevelopmentBootcamp2023/blob/main/CONTRIBUTE.md)
+For contributing guidelines checkout [Contribution guidelines](https://github.com/CODING-CLUB-CUCEK/WebDevelopmentBootcamp2023/blob/main/CONTRIBUTING.md)
 ## HTML Basics
 HTML is the foundation of any web page. Here are some resources to learn the basics of HTML:
 
